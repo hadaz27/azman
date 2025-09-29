@@ -116,6 +116,7 @@ int main(){
         }
     }while(choix != 0);
 }
+
 /*1. Ajouter un Livre au Stock
 Le programme demande les informations suivantes pour chaque livre :
 Titre du livre.
